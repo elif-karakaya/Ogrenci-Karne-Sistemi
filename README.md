@@ -1,6 +1,6 @@
 # Ogrenci Karne Sistemi
 
-Bu çalışma, C tabanlı ğğrenci karne sistemi projesidir. GitHub Desktop kullanarak projeyi kolayca klonlayabilir, geliştirme yapabilir ve katkıda bulunabilirsiniz.
+Bu çalışma, C tabanlı öğrenci karne sistemi projesidir. GitHub Desktop kullanarak projeyi kolayca klonlayabilir, geliştirme yapabilir ve katkıda bulunabilirsiniz.
 
 ## 🚀 Başlarken
 
