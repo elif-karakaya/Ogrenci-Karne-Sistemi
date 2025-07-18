@@ -4,7 +4,20 @@ Bu çalışma, C tabanlı öğrenci karne sistemi projesidir. GitHub Desktop kul
 
 ## 🚀 Başlarken
 
-### 1. Bu projeyi kendi bilgisayarınıza klonlayın
+### 1. Bu projenin çalışması
+
+Bu proje öğretim üyelerine yönelik C programlama dilinde geliştirilmiş metin tabanlı bir uygulamadır. Uygulama aşağıdaki bilgileri kullanıcıdan ister:
+
+* Notu hesaplanacak öğrenci sayısı
+* Dersin devamsızlık hakkı sayısı
+* Öğrencinin isim ve soyismi
+* Öğrencinin vize, final ve ödev notu
+
+Kullanıcının girdiği bu bilgilere göre öğrencinin ders ortalaması, harf notu, dersi geçme durumu ve sınıf ortalaması metin dosyasına yazdırılır. Metin dosyasının görüntüsü aşağıdaki gibidir:
+
+![Metin dosyası görüntüsü](notSistemi.png)
+
+### 2. Bu projeyi kendi bilgisayarınıza klonlayın
 
 GitHub Desktop kullanıyorsanız:
 
